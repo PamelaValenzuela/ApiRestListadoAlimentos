@@ -1,0 +1,105 @@
+[
+   {
+      "id":1,
+      "Categoria":"FrutosSecos",
+      "Produtos1":{
+         "semillasdelinaza":"30 gramos semillas de linaza",
+         "almendras":"30 gramos almendras",
+         "avellana":"30 gramos avellana",
+         "mani":"30 gramos mani",
+         "semilladechia":"30 gramos semilla de chia",
+         "semillasdegirasol":"30 gramos semillas de girasol",
+         "nuez":"30 gramos nuez"
+      }
+   },
+   {
+      "id":2,
+      "Categoria":"FrutosFrescos",
+      "Produtos2":{
+         "aceitunassevillanas":"100 gramos aceitunas sevillanas",
+         "arandano":"100 gramos arandano",
+         "cerezas":"100 gramos cerezas",
+         "ciruelas":"100 gramos ciruelas",
+         "frambuesas":"100 gramos frambuesas",
+         "frutilla":"100 gramos frutilla",
+         "guindas":"100 gramos guindas",
+         "limón":"100 gramos limón",
+         "mango":"100 gramos mango",
+         "manzana":"100 gramos manzana",
+         "melón":"100 gramos melón",
+         "naranja":"100 gramos naranja",
+         "pera":"100 gramos pera",
+         "piña":"100 gramos piña",
+         "platano":"100 gramos platano"
+      }
+   },
+   {
+      "id":3,
+      "Categoria":"Leguminosas",
+      "Produtos3":{
+         "porotosnegros":"100 gramos porotos negros",
+         "garbanzos":"100 gramos garbanzos",
+         "Arvejasfrescos":"100 gramos Arvejas frescos",
+         "habas":"100 gramos habas",
+         "judiasblancas":"100 gramos judias blancas",
+         "judiasrojas":"100 gramos judias rojas",
+         "lentejassecas":"100 gramos lentejas secas",
+         "sojaseca":"100 gramos soja seca"
+      }
+   },
+   {
+      "id":4,
+      "Categoria":"TuberculosyHortalizas",
+      "Produtos4":{
+         "acelgas":"100 gramos acelgas",
+         "ajo":"10 gramos ajo",
+         "alcachofa":"100 gramos alcachofa",
+         "apio":"100 gramos apio",
+         "berenjena":"100 gramos berenjena",
+         "brocoli":"100 gramos brocoli",
+         "cebolla":"100 gramos cebolla",
+         "bruselas":"100 gramos bruselas",
+         "coliflor":"100 gramos coliflor",
+         "champiñon":"100 gramos champiñon",
+         "escarola":"100 gramos escarola",
+         "espinacas":"100 gramos espinacas",
+         "lechuga":"100 gramos lechuga",
+         "papa":"100 gramos papa",
+         "pepino":"100 gramos pepino",
+         "perejil":"100 gramos perejil",
+         "pimiento":"100 gramos pimiento",
+         "repollo":"100 gramos repollo",
+         "tomate":"100 gramos tomate",
+         "zanahoria":"100 gramos zanahoria",
+         "Zapallo":"100 gramos Zapallo"
+      }
+   },
+   {
+      "id":5,
+      "Categoria":"Cereales",
+      "Produtos5":{
+         "Arrozcocido":"100 gramos Arroz cocido",
+         "avenacocida":"100 gramos avena cocida",
+         "semolacocida":"100 gramos semola cocida"
+      }
+   },
+   {
+      "id":6,
+      "Categoria":"Aceites",
+      "Produtos6":{
+         "Aceitevegetal":"5 ml Aceite vegetal",
+         "Aceitecoco":"5 ml Aceite coco",
+         "aceitedeoliva":"5 ml aceite de oliva",
+         "aceitedecanola":"5 ml aceite de canola"
+      }
+   },
+   {
+      "id":7,
+      "Categoria":"HuevosyLateos",
+      "Produtos7":{
+         "lechedevaca":"200 ml leche de vaca",
+         "yogur":"120 gramos yogur",
+         "Huevoentero":"50 gramos Huevo entero"
+      }
+   }
+]
